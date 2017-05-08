@@ -37,4 +37,5 @@ $ make clean
 # Authors
 - 2016-Present : Chiang-Chiu Ti
 - 2016-Present : Hsien-Wen Hu, email tomyhu1995@gmail.com
+- 2016 : Chia-Ray Lin
 
