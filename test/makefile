@@ -42,4 +42,4 @@ ${EXE_NAME}: ${OBJ_FILES}
 ${OBJ_FILES} : %.o : %.c
 	${CC} ${CFLAGS} -c ${INC} $< -o $@ ${LDFLAG}
 clean:
-	rm ${OBJ_FILES} ${EXE_NAME} ${TEST}
+	rm -rf ${OBJ_FILES} ${EXE_NAME} ${TEST}
